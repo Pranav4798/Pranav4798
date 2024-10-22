@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **pranav.bhagat9886@gmail.com**
 
-- ⚡ About me **My girl thinks I am funny**
+- ⚡ About me **I love soccer and I am funny sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
