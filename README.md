@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranav Bhagat</h1>
 <h3 align="center">Data Engineer and Cloud Enthusiast with a passion for Machine Learning</h3>
 
-- 🌱 I’m currently working on : **AWS Cloud Essentials certification**
+- 🌱 I’m currently working on my **AWS Cloud Essentials certification**
 
-- 📫 How to reach me : **pranav.bhagat9886@gmail.com**
+- 📫 How to reach me **pranav.bhagat9886@gmail.com**
 
-- ⚡ **I am funny sometimes**
+- ⚡ About me **My girl thinks I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
