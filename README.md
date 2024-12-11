@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Bhagat</h1>
 <h3 align="center">Data Engineer and Cloud Enthusiast with a passion for Machine Learning</h3>
 
-- 🌱 I’m currently working on : **AWS Cloud Essentials Certification and Oracle DB Admin Certification**
+- 🌱 I’m currently working on : **getting the AWS Cloud Essentials Certification and Learning how to use PyGame**
 
 - 📫 How to reach me : **pranav.bhagat9886@gmail.com**
 
