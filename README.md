@@ -7,7 +7,7 @@
 
 - ⚡ About me : **I love soccer and I am funny sometimes**
 
-![](https://komarev.com/ghpvc/?username=Pranav4798&base=452&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Pranav4798&color=blueviolet)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
