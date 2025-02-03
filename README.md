@@ -33,6 +33,6 @@ AWS <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src=
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav4798&show_icons=true&locale=en&layout=compact" alt="pranav4798" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav4798&" alt="pranav4798" /></p>
+
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pranav4798&theme=midnight-purple&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
