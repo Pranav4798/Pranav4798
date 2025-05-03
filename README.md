@@ -34,12 +34,13 @@ AWS <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src=
 Have ideas for new sql case studies, python mini projects or suggestions to improve the existing ones?  
 I'd love to hear from you!
 
-Reach out to me at - **pranav.bhagat9886@gmail.com**
-
+Reach out to me at - **pranav.bhagat9886@gmail.com**  
+  
 
 ## ⭐️ Show your support 
 
-If you find any of my repositories helpful, consider giving it a ⭐️ to help others discover it!
+If you find any of my repositories helpful, consider giving it a ⭐️ to help others discover it!  
+  
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav4798&show_icons=true&locale=en&layout=compact" alt="pranav4798" /></p>
 
