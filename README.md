@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Bhagat</h1>
 <h3 align="center">Data Engineer and Cloud Enthusiast with a passion for Machine Learning</h3>
 
-- 🌱 I’m currently working on : **AWS Cloud Essentials Certification and Learning how to use PyGame**
+- 🌱 I’m currently working on : **Snowflake Certification prep and Some side hustles**
 
 - ⚡ About me : **I love soccer and I am funny sometimes**
 
