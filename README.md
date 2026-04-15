@@ -49,6 +49,7 @@
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav4798&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="pranav4798" height="165" />
+<p align="right">
   <img src="https://streak-stats.demolab.com?user=Pranav4798&theme=shades-of-purple" alt="GitHub Streak" height="165" />
 </p>
 
